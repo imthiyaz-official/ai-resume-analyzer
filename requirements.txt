@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+PyPDF2
+python-docx
+reportlab
+Pillow
+beautifulsoup4
+openai
